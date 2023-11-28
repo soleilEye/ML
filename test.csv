@@ -1,0 +1,298 @@
+﻿0,C:\Windows\system32\pcalua.exe -a C:\Users\user\Desktop\SCCM 2016 Client\ccmsetup.exe -d C:\Users\user\Desktop\SCCM 2016 Client,\Windows\system32\pcalua.exe,exe
+0,c:\program files (x86)\hostmonitor\rma-win\rma.exe /service, KS-Soft Remote Monitoring Agent (RMA),exe
+0,C:\Windows\System32\drivers\aswSnx.sys,aswSnx,sys
+0,c:\program files (x86)\usystem\agentserver\bin\usagent.exe,USystemAgentSystem,exe
+1,%SystemRoot%\system32\svchost.exe -k netsvcs -p -s XLServicePlatform,XLServicePlatform 迅雷下载基础服务（用于快速申请磁盘空间及接管浏览器下载请求),exe
+1,-,\restart-salt-minion,-
+1,C:\Windows\SysWOW64\CZCBPassGuardNew\CZCBPassGuardXInputService.exe,CZCBPassGuardXInputService,xlsx
+0,C:\Program Files (x86)\ASUS\AXSP\4.02.15,asComSvc,exe
+1,C:\Program Files\BlueStacks_nxt\BstkDrv_nxt.sys,BlueStacks Hypervisor_nxt,sys
+0,c:\oracle\ora11\bin\omtsreco.exe,OracleMTSRecoveryService,exe
+0,systemroot\system32\drivers\asmtxhci.sys,ASMedia XHCI Service,sys
+0,systemroot\system32\drivers\ssudmdm.sys,SAMSUNG  Mobile USB Modem Drivers (DEVGURU Ver),sys
+1,C:\WebProjects\TestService2\TestService2\bin\Debug\TestService2.exe,Service1,exe
+0,c:\program files\monitel\ck-11\client\logwriter.exe,CK11LogWriterService,exe
+0,c:\program files (x86)\microsoft\edge\application\92.0.902.67\elevation_service.exe,c:\program files (x86)\microsoft\edge\application\92.0.902.67\elevation_service.exe,exe
+0,C:\Windows\system32\drivers\AsIO3.sys,Asusgio3,sys
+0,c:\windows\system32\mlpatch.exe,mlpatch,exe
+0,system32\drivers\tib.sys,Acronis TIB Manager,sys
+0,c:\windows\system32\hostname.exe,\T1053_005_OnStartup,exe
+0,systemroot\system32\driverstore\filerepository\ialpss2_gpio2_tgl.inf_amd64_2546dafe2183e972\ialpss2_gpio2_tgl.sys,Intel(R) Serial IO GPIO Driver v2,sys
+0,-,\ClearSpooler15min,-
+0,systemroot%\system32\amdfendrsr.exe,amd psp service,exe
+1,C:\WINDOWS\system32\OpenWith.exe http://go.microsoft.com/fwlink/?LinkId=286135,\DisplayDhtmlLoggger,exe
+1,D:\Programms\RustDesk\RustDesk.exe --service;,RustDesk,exe
+0,D:\Programms\RustDesk\RustDesk.exe --import-config C:\Users\User\AppData\Roaming\RustDesk\config\RustDesk.toml,\bro_,exe
+0,C:\Program Files\Google\Chrome\Application\chrome.exe -- kiosk http://10.128.50.140/zabbix.php?action=dashboard.view&dashboardid=48,Virtual WiFi Miniport Service,sys
+0,systemroot\system32\drivers\vwifimp.sys,UcmCx0101,sys
+1,C:\Windows\System32\Drivers\UcmCx.sys,Quick Share Service,exe
+0,C:\Program Files\WindowsApps\SAMSUNGELECTRONICSCoLtd.SamsungQuickShare_1.5.37.0_x64__wyx1vj98g3asy\QuickShareService\QuickShareService.exe,Realtek USB FE/GbE NIC Family Windows 10 64-bit Driver,sys
+1,systemroot\system32\drivers\rtux64w10.sys,\Christmas Task (One-Time),exe
+0,C:\Program Files (x86)\IObit\Driver Booster\10.1.0\xmas.exe /xr,BTHMODEM,sys
+0,C:\Windows\System32\drivers\bthmodem.sys,intel(r) management and security application local management service,exe
+0,systemroot%\system32\driverstore\filerepository\lms.inf_amd64_fddb643595e0b8d0\lms.exe,\iGoAudioTask,exe
+0,C:\Windows\System32\DriverStore\FileRepository\igoaudioservice.inf_amd64_2d423071a7e170b0\iGoSwServer.exe --apo,\MSI Task Host,-
+0,iGoSwServer.exe,Intel(R) Management Engine Interface,sys
+0,-,TsUsbFlt,sys
+0,systemroot\system32\driverstore\filerepository\oem7.inf_amd64_c22251d5ea82b3c3\x64\teedriverw10x64.sys,aswMonFlt,sys
+1,C:\Windows\System32\drivers\tsusbflt.sys,ActiveMQ run,exe
+1,C:\Windows\System32\drivers\aswMonFlt.sys,C:\Distr\Scripts\Robot\03 Остатки ПСФЛ.vbs,vbs
+0,C:\TIRFT\apache-activemq-5.16.1\bin\startcrypt.exe,aswArDisk,sys
+0,C:\Distr\Scripts\Robot\03 Остатки ПСФЛ.vbs,Объект автоматизации Kaspersky Security Center 10,exe
+1,C:\Windows\System32\drivers\aswArDisk.sys,\Restart EQ-Web-Gate,-
+1,c:\program files (x86)\kaspersky lab\kaspersky security center console\klakaut.exe,\WpsExternal_user_20221117093855,exe
+1,-,qmbsrv,vbs
+1,C:\Users\user\AppData\Local\Kingsoft\WPS Office\11.2.0.11380\office6\wpscloudsvr.exe /wpscloudlaunch /run_plugin /plugin_name=ktaskschdtool /plugin_entry=ktaskschdtool.dll /task=wpsexternal /launchtask /ver=1.0 /start_from=task_external,AppleLowerFilter,sys
+0,C:\Program Files (x86)\Tencent\QQPCMgr\16.8.24465.209\qmbsrv.vbs,fgsttooldrv.sys,sys
+0,\SystemRoot\System32\drivers\AppleLowerFilter.sys,Core.Agent,exe
+1,system32\drivers\fgsttooldrv.sys,\AstralPing,ps1
+0,c:\program files (x86)\positive technologies\maxpatrol 10 agent\\agent.exe --config c:\programdata\positive technologies\maxpatrol 10 agent\\config\agent.conf,\AMD\AMD_Radeon_Installer_22.5.1,exe
+0,C:\distr\AstralPing\AstralPing.ps1,\ExcelsecuBocAutoRunTask,exe
+0,C:\AMD\AMD_Radeon_Installer_22.5.1\\Bin64\InstallManagerApp.exe /LOCAL0 /HIDEEULA /FROMCLEANINSTALL /KEEPUSERSETTINGSSELECTED,\jktAqiDs,exe
+0, C:\Program Files (x86)\BOC\USBKEY II\IBank\BOCUK2IBankAdmin.exe /RunMode AutoRun,psexesvc,exe
+0,cmd.exe /C netstat -ano > %windir%\Temp\jktAqiDs.tmp 2>&1,FgstULLC,sys
+0,%SystemRoot%\PSEXESVC.exe,NdisImPlatform,sys
+1,system32\drivers\fgstullc.sys,dg_ssudbus,sys
+0,C:\Windows\System32\drivers\NdisImPlatform.sys,\systemroot\system32\drivers\ftdibus.sys,sys
+0,\SystemRoot\system32\DRIVERS\ssudbus2.sys,\Used 1C licenses trapper,exe
+0,systemroot\system32\drivers\ftdibus.sys,\iGoAudioTask \iGoSwServer.exe --apo \iGoAudioTaskSession,exe
+0,C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe C:\Program Files\zabbix\scripts\session1ctrapper.ps1,TsUsbGD,sys
+0,C:\Windows\System32\DriverStore\FileRepository\igoaudioservice.inf_amd64_a696162056f7794b\iGoSwServer.exe --apo,BTHUSB,sys
+0,#ИМЯ?,\ASUS Update Checker 2.0,exe
+0,C:\Windows\System32\drivers\TsUsbGD.sys,Intel(R) Management Engine Interface,sys
+0,C:\Windows\System32\drivers\BTHUSB.sys,Поддержка сканирования WSD,sys
+0,C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_43033c49f353cf19\ASUSSoftwareManager\AsusUpdateChecker.exe,adobe acrobat update service,exe
+0,systemroot\system32\driverstore\filerepository\oem7.inf_amd64_c22251d5ea82b3c3\x64\teedriverw10x64.sys,QWAVEdrv,sys
+1,systemroot\system32\drivers\wsdscan.sys,\SamsungMagician,ps1
+0,c:\program files (x86)\common files\adobe\arm\1.0\armsvc.exe,\NVIDIA GeForce Experience SelfUpdate_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8},-
+0,C:\Windows\system32\drivers\qwavedrv.sys,Logitech RightSound Filter Driver,sys
+1,C:\Program Files (x86)\Samsung\Samsung Magician\SamsungMagician.ps1,360Box mini-filter driver,sys
+0,-,Intel(R) Capability Licensing Service TCP IP Interface,exe
+1,Lvrs64.sys,RDMS,exe
+0,C:\Windows\system32\drivers\360Box64.sys,acronis,sys
+0,%systemroot%\system32\driverstore\filerepository\iclsclient.inf_amd64_76523213b78d9046\lib\socketheciserver.exe,\FxSound\Update,exe
+0,%SystemRoot%\system32\svchost.exe -k NetworkServiceRemoteDesktopPublishing,\VMware Guest OS Customization Task,exe
+1,system32\drivers\snapman.sys,equipment-gateway-module,exe
+0,C:\Program Files\FxSound LLC\FxSound\updater.exe /silent,Intel(R) Graphics Command Center Service,-
+0,C:\Windows\TEMP\vmw31CA.tmp1001\guestcustutil.exe post-run HandleCustomizationCompleted,VSStandardCollectorService150,exe
+0,C:\equipment-web-app\backend\workDir\gateway-module\equipment-gateway-module.exe,alsysio64.sys,sys
+1,-,Запуск скрипта EQ,txt
+0,C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\DiagnosticsHub.Collection.Service\StandardCollector.Service.exe,intcdaud.sys,sys
+1,c:\users\user\appdata\local\temp\alsysio64.sys,AutoScsiService,sys
+0,C:\TEMP\eqscript\eqfiles.txt,\windows\system32\pcalua.exe,exe
+0,systemroot\system32\drivers\intcdaud.sys,Citrix USB Monitor Driver,sys
+0,C:\WINDOWS\system32\zzxaqwe.sys C:\WINDOWS\SYSTEM32\CZCBBA~2.DLL,ccmsetup.exe,exe
+1,C:\windows\system32\pcalua.exe -a c:\Program Files (x86)\Microsoft SQL Server\100\Setup Bootstrap\Release\x86\SetupARP.exe -c /X86,Служба Удаленного рабочего стола Chrome,exe
+0,systemroot\system32\drivers\ctxusbm.sys,\Windows\System32\WindowsPowerShell\v1,exe
+0,c:\windows\ccmsetup\ccmsetup.exe /runservice PC.DOMAIN.COM smssitecod=aes fsp=app-aes-096.aes.netcom.corp /retrywintask:1,\NvNodeLauncher_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8},-
+0,C:\Program Files (x86)\Google\Chrome Remote Desktop\116.0.5845.9\remoting_host.exe --type=daemon --host-config=C:\ProgramData\Google\Chrome Remote Desktop\host.json,\Optimize Push Notification Data File-User,-
+1,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -File C:\schedule\mimSyncDelta.ps1,HelpuHostService,bat
+1,-,AD Computers Move FIL,ps1
+0,-,\Перезагрузка в 7.30 на узле PC.DOMAIN.COM,exe
+0,C:\Users\Public\Documents\HelpU\HelpULauncher\HelpuHostSvr.bat,rdpbus,sys
+0,C:\Scripts\AD_Computers_Move_FIL\Move_fil_PCs_to_OU.ps1,RasSstp,sys
+1,C:\Windows\System32\shutdown.exe -r,\pop3_syncsort_postgres,bat
+0,C:\Windows\System32\drivers\rdpbus.sys,GENERICDRV,sys
+0,C:\Windows\System32\drivers\rassstp.sys,wdiwifi,sys
+0,D:\pop\syncsort_alerts_postgres.bat,realtek pcie card reader - per,sys
+0,c:\users\user~1\appdata\local\temp\amifldrv64.sys,\CCleanerCrashReporting,exe
+0,C:\Windows\System32\DRIVERS\wdiwifi.sys,Сетевой адаптер Realtek Wireless LAN 802.11n USB 2.0,sys
+0,SystemRoot\System32\drivers\RtsPer.sys,lhidfilt.sys,sys
+0,C:\Program Files\CCleaner\CCleanerBugReport.exe --product 90 --send dumps|report --path C:\Program Files\CCleaner\LOG --programpath C:\Program Files\CCleaner --configpath C:\Program Files\CCleaner\Setup --guid 6af5b541-fc36-4929-be3d-ac8f5cbc3a87 --version 6.04.10044 --silent,igfx,sys
+1,systemroot\system32\drivers\rtwlanu_oldic.sys,QQSysMonX64,sys
+0,systemroot\system32\drivers\lhidfilt.sys,\restart-wacsm,exe
+0,systemroot\system32\driverstore\filerepository\iigd_dch.inf_amd64_dc29bdfd478be046\igdkmd64.sys,aswRdr,sys
+1,C:\Program Files (x86)\Tencent\QQPCMgr\16.8.24465.209\QQSysMonX64_EV.sys,WireGuard Manager,py
+0,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -File C:\schedule\restart-wacsm.ps1,dlcdcncm,sys
+0,WACSM - Office Online Server,\Used 1C licenses trapper,exe
+0,C:\Windows\System32\drivers\aswRdr2.sys, Intel(R) SGX AESM,exe
+0,C:\Program Files\WireGuard\wireguard.py,\MIR\OPCServerV30\ServerOm3.exe,exe
+0,systemroot\system32\drivers\dlcdcncm660.sys,\VMware Guest OS Customization Task,-
+1,C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe C:\Program Files\zabbix\scripts\session1ctrapper.ps1,6EVJcQ5c,exe
+0,systemroot%\system32\driverstore\filerepository\sgx_psw.inf_amd64_b117548b2e075ba1\aesm_service.exe,npcap packet driver (npcap),sys
+0,D:\MIR\OPCServerV30\ServerOm3.exe,scfilter,sys
+0,-,WUDFWpdFs,sys
+0,"%COMSPEC% /Q /c cMd.eXE /Q /c for /f tokens=1,2 delims=  ^%A in ('tasklist /fi Imagename eq lsass.exe | find lsass') do rundll32.exe C:\windows\System32\comsvcs.dll, #+0000^24 ^%B \Windows\Temp\6HZDiTYr.txt full",\MSITechPulseUpdater,exe
+0,SystemRoot\system32\DRIVERS\npcap.sys,tbtsvc.exe,exe
+0,C:\Windows\System32\DRIVERS\scfilter.sys,total network inventory 2 audit service,exe
+0,C:\Windows\system32\DRIVERS\WUDFRd.sys,Intel(R) PRO/1000 PCI Express Network Connection Driver I,sys
+0,C:\Program Files (x86)\Hewlett-Packard\HP Touchpoint Manager\Tools\TAInstaller.exe --install --deployer,\NvTmRep_CrashReport4_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8},-
+0,c:\program files (x86)\intel\thunderbolt software\tbtsvc.exe,UcmUcsiAcpiClient,sys
+1,systemroot%\tniwinagent\tniwinagent.exe,\rpa.reports_on_individuals,cmd
+0,systemroot\system32\drivers\e1i63x64.sys,\StartCN,-
+1,-,ActiveMQ run,bat
+0,C:\Windows\System32\drivers\UcmUcsiAcpiClient.sys,\WINDOWS\system32\pcalua.exe,exe
+1,C:\rpa\rpa.reports_on_individuals\venv\Scripts\assdqwezadr.cmd src\robot.py run_supervisor,360AvFlt mini-filter driver,sys
+0,-,Dfsc,sys
+0,C:\TIRFT\apache-activemq-5.16.1\bin\startcrypt.bat,драйвер адаптера минипорта для туннеля microsoft,sys
+0,C:\WINDOWS\system32\pcalua.exe -a \\vld-fs08\Distr_DIT\,Устройства Bluetooth (личной сети),sys
+1,C:\Windows\system32\drivers\360AvFlt.sys,C:\Program Files (x86)\LTV-NVMS lite\Server\TVWallServer.exe,exe
+0,C:\Windows\System32\Drivers\dfsc.sys,btobto,bat
+0,systemroot\system32\drivers\tunnel.sys,WdFilter,sys
+1,systemroot\system32\drivers\bthpan.sys,проверка сертификатов Забикс на этом пк,ps1
+0,C:\Program Files (x86)\LTV-NVMS lite\Server\TVWallServer.exe,filezilla-server,exe
+0,%comspec% /q /c echo cd  ^> \\127.0.0.1\c$\__output 2^>^&1 > %temp%\execute.bat & %comspec% /q /c %temp%\execute.bat & del %temp%\execute.bat, intel(r) serial io gpio driver v2,sys
+1,C:\Windows\system32\drivers\WdFilter.sys,ZhuDongFangYu,exe
+0,C:\Program Files\ZUserix Agent\certmonitor\GetCertFromURL.ps1,\vuZvuyHS,exe
+0,c:\program files\filezilla server\filezilla-server.exe,\AsusSystemAnalysis_754F3273-0563-4F20-B12F,exe
+0,systemroot\system32\driverstore\filerepository\ialpss2_gpio2_cnl.inf_amd64_d920c2a844f26eba\ialpss2_gpio2_cnl.sys,Аудио Intel(R) для дисплеев,-
+0,C:\Program Files (x86)\360\360Safe\deepscan\zhudongfangyu.exe,iaStorE,sys
+0,cmd.exe /C query user > %windir%\Temp\RxOVeyhI.tmp 2>&1 cmd.exe /C netstat -ano > %windir%\Temp\vuZvuyHS.tmp 2>&1,\IPTHTZbW,exe
+0,C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_aeff025f0108fb44\ASUSSystemAnalysis\AsusSystemAnalysis.exe -j0,\RtkAudUService64_BG,exe
+0,-,\NvNodeLauncher_{B2FE1952-0186-46C3},-
+0,system32\drivers\iastore.sys,iwdbus.sys,sys
+1,c:\windows\temp\SearchIndex.exe -orwuhg478hdbg3RGJURFHJR7sb52gvw65bsgw2dg > %windir%\Temp\IPTHTZbW.tmp 2>&1,Bonjour Service,bat
+0,cmd.exe /C tasklist /svc > %windir%\Temp\bMROvwWY.tmp 2>&1,system32\drivers\klramdisk.sys,sys
+0,cmd.exe /C tasklist /svc > %windir%\Temp\RCAAcqIo.tmp 2>&1,\create-guest-wifi,exe
+1,C:\ProgramData\debug\SearchIndex.exe,WiMan Service,sys
+0,Searchindexer.exe,officeclicktorun,exe
+1,C:\Windows\System32\RtkAudUService64.exe -background,LxssManagerUser_ee2e1,vbs
+1,-,小贝加速服务 主动防御,exe
+0,systemroot\system32\drivers\iwdbus.sys,Aladdin IFD Handler,sys
+0,C:\IDIS Center\Client\mDNSResponder.bat,\CCleanerCrashReporting,exe
+1,system32\drivers\klramdisk.sys,\AD Топ-менеджеры Add Users,ps1
+0,C:\Windows\script\PHP\php.exe ‪C:\Windows\script\create-guest-wifi.php,hpprintscandoctorservice,exe
+1,\SystemRoot\System32\DriverStore\FileRepository\wiman.inf_amd64_27a3cc149d006219\WiManHu\WiManHu.sys,zpmon_drv,sys
+0,c:\program files\common files\microsoft shared\clicktorun\officeclicktorun.exe /service,epklibproxy,sys
+1,C:\Windows\system32\ssdqqwe.vbs,обновление компонентов ПО Microsoft Visual Studio,exe
+0,C:\Program Files (x86)\360SPTray\360SPService.exe,\Ascon.AU.ControlCenter,exe
+0,systemroot\system32\drivers\aldnifdh.sys,Sense,exe
+0,C:\Program Files\CCleaner\CCleanerBugReport.exe --product 90 --send dumps|report --path C:\Program Files\CCleaner\LOG --programpath C:\Program Files\CCleaner --configpath C:\Program Files\CCleaner\Setup --guid bb734577-43f5-4160-92b2-b477bb57832c --version 6.04.10044 --silent,mst64_4.18.0,sys
+0,C:\Scripts\Top_Managers_Group\Top_Managers_Group_User.ps1,WSDPrintDevice,sys
+0,c:\program files\hpprintscandoctor\hpprintscandoctorservice.exe,kneps,sys
+0,C:\WINDOWS\system32\Drivers\zpmon_drv.sys,Logicool SetPoint KMDF HID Filter Driver,sys
+0,c:\windows\system32\drivers\epklibproxy.sys,\TVT\TVSUUpdateTask,exe
+0,C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\VSIXAutoUpdate.exe,rhproxy,sys
+0,C:\Program Files (x86)\ASCON\ASCON Services\Ascon.AU.ControlCenter.exe,vwififlt,sys
+0,C:\Program Files\Windows Defender Advanced Threat Protection\MsSense.exe,AVP.KES.21.9,exe
+1,c:\users\user~1\appdata\local\temp\2\86ba0902-6f7c-44eb-92a3-a30f252f9825\nic_mellanox_cx4_firmware\mst64.sys,TcHardWare,sys
+0,systemroot\system32\drivers\wsdprint.sys,\Kontur.Plugin.Assistant-v3,-
+0,C:\Windows\system32\DRIVERS\kneps.sys,igfx,sys
+1,systemroot\system32\drivers\lhidfilt.sys,zne_tdi_proxy,vbs
+0,"C:\Program Files (x86)\Lenovo\System Update\tvsuShim.exe /CM -search R -action INSTALL -includerebootpackages 1,3,4,5 -noicon -noreboot -nolicense -defaultupdate -schtask",Check Point Endpoint Client Watchdog,exe
+1,C:\Windows\System32\drivers\rhproxy.sys,\rpa.reports_on_individuals,-
+1,C:\Windows\System32\drivers\vwififlt.sys,\KLPkInst_5dce3511-7fee-41b4-9b12-0a45b575a265,-
+1,C:\Program Files (x86)\Kaspersky Lab\KES.12.0.0\avp.exe,worldoftanks.exe,exe
+0,C:\Program Files (x86)\Tencent\QQPCMgr\13.10.21936.216\QQPCHW-x64_ev.sys,\AsusSystemAnalysis_754F3273-0563-4F20-B12F,exe
+0,-,\Автотест на узле PC.DOMAIN.COM,bat
+0,systemroot\system32\driverstore\filerepository\iigd_dch.inf_amd64_dc29bdfd478be046\igdkmd64.sys,fjtwsvic,exe
+0,C:\WINDOWS\system32\Drivers\zne_tdi_proxy.vbs,aswSP,sys
+1,c:\program files (x86)\checkpoint\endpoint connect\watchdog\epwd.exe.,\rpa.lotus_egrn_robot,exe
+1,-,avast! Tools,exe
+0,-,MRxDAV,sys
+0,С:\todo\tanki\win64\worldoftanks.exe,Intel(R) Content Protection HECI Service,exe
+0,С:\todo\lesta\gamecenter\dlls\lgc_renderer_host.exe,RasAgileVpn,sys
+0,C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_5e38ce8081e93b46\ASUSSystemAnalysis\AsusSystemAnalysis.exe -j0,Intel(R) PRO/1000 PCI Express Network Connection Driver D,sys
+0,C:\_My_Files\Work\2. Testing\0. Setup\Autorun\Script.bat,\NvTmRep_CrashReport1_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8},-
+0,C:\Windows\wain_32\Fjicube\FJTWSVIC.exe,\Archive_security_log,bat
+1,C:\Windows\Twain_32\fjicube\fjtwsvic.exe,PSEXESVC,ps1
+1,C:\Windows\System32\drivers\aswSP.sys,\pop3_test,ps1
+0,C:\rpa\rpa.lotus_egrn_robot\venv\Scripts\pythonw.exe src\robot.py,kaspersky secure connection service 5.14,exe
+0,C:\Program Files\Avast Software\Avast\aswToolsSvc.exe,googleupdater,exe
+1,C:\Windows\system32\drivers\mrxdav.sys,Zservice 1.5,ps1
+0,systemroot%\system32\driverstore\filerepository\oem6.inf_amd64_1f87eb04e8ab15c8\intelcphecisvc.exe,PEAUTH,sys
+0,C:\Windows\System32\drivers\AgileVpn.sys,\MMReminderService,exe
+1,systemroot\system32\driverstore\filerepository\e1d.inf_amd64_f3c6513565231a23\e1d.sys,ActiveCB,exe
+0,-,ROG Live Service,exe
+0,C:\Scripts\archive_security_log.bat,\DockerAutoStart,exe
+0,Выполнение: archive_security_log | forfiles -p C:\Windows\System32\winevt\Logs\ArchiveSecurity -s -m *.rar -d 90 -c cmd /c del @path,\asus\gpufanhelper,exe
+1,%programfiles%\winrar\WinRAR.exe a -m5 -df C:\Windows\System32\winevt\Logs\ArchiveSecurity\Security%date%.rar C:\Windows\System32\winevt\Logs\Archive-Security*.evtx,\SIEBEL\Delete Temp Daily,bat
+0,%SystemRoot%\PSEXESVC.ps1,Zone Alarm Firewall Driver,sys
+1,D:\pop\syncsort_alerts1.ps1,TSSysKit,py
+0,C:\Program Files (x86)\Kaspersky Lab\Kaspersky Secure Connection 5.14\ksde.exe,lxssmanageruser_2696fc12,exe
+0,"c:\program files (x86)\google\googleupdater\117.0.5860.0\updater.exe --system --windows-service --service=update --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2", Microsoft Edge Elevation Service,exe
+0,C:\Program Files\Common Files\SecurIT\zservice15.ps1,\UninstallTool_SkipUAC_Администратор,exe
+0,C:\Windows\System32\drivers\peauth.sys,Intel(R) PRO/1000 PCI Express Network Connection Driver D,sys
+0,C:\Program Files\Mindjet\MindManager 18\MmReminderService.exe,Net Driver HPZ12,exe
+0,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe C:\ActiveCB\ActiveCB.exe,\Windows\system32\pcalua.exe,exe
+1,C:\Program Files\ASUS\ROG Live Service\ROGLiveService.exe,winvnc.exe,exe
+0,C:\Program Files\Docker\Docker\Docker Desktop.exe,Аудио драйвер USB (WDM),-
+0,Docker,NetGroup Packet Filter Driver,exe
+0,C:\Program Files (x86)\ASUS\AI Suite III\DIP4\GpuFanHelper.exe,\systemroot\system32\drivers\ftser2k.sys,exe
+0,C:\Program Files (x86)\ASUS\AI Suite III\AISuite3.exe -schedule,\systemroot\system32\drivers\ftser2k.sys,exe
+0,C:\Program Files (x86)\ASUS\AI Suite III\DIP4\DIPAwayMode\DipAwayMode.exe,\systemroot\system32\drivers\ftser2k.sys,exe
+0,E:\Siebel\UTILS\Clean_temp.bat,\bro_,bat
+0,systemroot\system32\drivers\vsdatant.sys,\JVBmJwAZ \kcLyQpnR \UVAtfcnK \FnMSjQAJ,sys
+0,C:\Program Files (x86)\Tencent\QQPCMgr\13.10.21936.216\TSSysKit64_EV.py,\MMReminderService,py
+1,c:\windows\system32\svchost.exe -k lxssmanageruser -p,\Clear AD From Objects User,exe
+1,c:\program files (x86)\microsoft\edge\application\89.0.774.68\elevation_service.sys,360Safe HVM,sys
+0,C:\Program Files\Uninstall Tool\UninstallTool.exe $(Arg0) /tasksch ,npcap packet driver (npcap),exe
+0,systemroot\system32\driverstore\filerepository\oem15.inf_amd64_c9091335babbf02e\e1d68x64.sys ,Intel(R) Wireless Adapter Driver for Windows 10 - 64 Bit,sys
+0,systemroot%\system32\svchost.exe ,intel(r) dynamic application loader host interface service,exe
+0,C:\Windows\system32\pcalua.exe -a C:\Windows\ccmsetup\ccmsetup.exe -d C:\Windows\ccmsetup,iastore.sys,sys
+0,C:\Program Files\uvnc bvba\UltraVnc\winvnc.exe -service_run,microsoft edge elevation service,exe
+0,C:\Program Files\uvnc bvba\UltraVnc\winvnc.exe -service,c:\users\user~1\appdata\local\temp\amifldrv64.sys,sys
+0,-,\Used 1C licenses trapper,ps1
+1,c:\program files (x86)\релематика\микра\drivers\bresleropcdaserver.exe -w -oldstyle,Service1,vbs
+0,systemroot\system32\drivers\ftser2k.sys,hp application driver,sys
+1,C:\Program Files\Google\Chrome\Application\chrome.exe --kiosk http://PC/d/A3vRoFN7k/average-events?orgId=1&refresh=30s. ,PluginService,bat
+0, cmd.exe /C net user > %windir%\Temp\FnMSjQAJ.tmp 2>&1 cmd.exe /C dir c:\users > %windir%\Temp\kcLyQpnR.tmp 2>&1 cmd.exe /C tasklist /svc > %windir%\Temp\UVAtfcnK.tmp 2>&1 cmd.exe /C net user > %windir%\Temp\FnMSjQAJ.tmp 2>&1,tunnel,sys
+0,-,rtkbtmanserv,exe
+0,C:\Scripts\Clear_AD_From_Objects_User\Clear_AD_From_Objects_User.vbs,\CCleanerCrashReporting,exe
+1,System32\Drivers\360Hvm64.sys,000000B4A613B2084633602,exe
+0,C:\Windows\system32\cmd.exe /Q /c echo tasklist ^> \\127.0.0.1\C$\__output 2^>^&1 > C:\Windows\TEMP\execute.bat & C:\Windows\system32\cmd.exe /Q /c C:\Windows\TEMP\execute.bat & del C:\Windows\TEMP\execute.bat,\TechPulseUpdater,exe
+1,systemroot\system32\drivers\netwtw06.sys,Cwbrxd ,vbs
+0,systemroot%\system32\driverstore\filerepository\oem18.inf_amd64_b5484efd38adbe8d\jhi_service.exe,\\Перезагрузка ПК после,-
+0,system32\drivers\iastore.sys,kl1,sys
+1,c:\program files (x86)\microsoft\edge\application\92.0.902.67\elevation_service.exe,TSSysKit,sys
+1,c:\users\user~1\appdata\local\temp\amifldrv64.sys,AlarmServerApp,exe
+0,C:\Scripts\Clean_Exchange_log.ps1,microsoft bluetooth a2dp driver,sys
+0,c:\windows\system32\drivers\fgstullc.sys,fgstullc.sys ,sys
+1,C:\WebProjects\TestService2\TestService2\bin\Debug\TestService2.vbs,Cwbrxd ,exe
+0,SystemRoot\System32\DriverStore\FileRepository\hpcustomcapdriver.inf_amd64_a955fa431e522f5e\x64\hpcustomcapdriver.sys,wanarp,sys
+0,C:\Program Files\NetIPCamera\PluginService.bat,Intel(R) PRO/1000 PCI Express Network Connection Driver I,sys
+1,C:\Windows\System32\drivers\tunnel.sys,Запуск скрипта EQ,vbs
+1,systemroot%\rtkbtmanserv.exe,\Cronos,exe
+0,C:\Program Files\CCleaner\CCleanerBugReport.exe --product 90 --send dumps|report --path C:\Program Files\CCleaner\LOG --programpath C:\Program Files\CCleaner --configpath C:\Program Files\CCleaner\Setup --guid 0bcbdde1-d48b-4614-b2f2-ea8aea71bb8a --version 6.04.10044 --silent,\NvProfileUpdaterDaily_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8},-
+0,C:\Tools\SunloginClientSOS_1.2.1.58835_x64.exe --mod=servicesvc, Intel(R) Wireless Bluetooth®,sys
+0,C:\Program Files (x86)\Hewlett-Packard\HP Touchpoint Manager\Tools\TAInstaller.exe --install --deployer,Check Point Virtual Network Adapter - Apollo,sys
+0,C:\WINDOWS\cwbrxd.vbs,\CCleanerCrashReporting,exe
+0,shutdown -r -t 0,MsLldp,sys
+1,system32\drivers\kl1.sys,C:\Temp\nprintingscript\nprintingcount.ps1,ps1
+0,C:\Program Files (x86)\Tencent\QQPCMgr\13.10.21936.216\TSSysKit64_EV.sys,\T1053_005_OnStartup',-
+0,C:\Program Files (x86)\LTV-NVMS lite\Server\AlarmServer.exe,aswRvrt,sys
+0,systemroot\system32\drivers\btha2dp.sys,aswbidsh,sys
+0,c:\windows\system32\drivers\fgstullc.sys,BthEnum,sys
+0,C:\WINDOWS\cwbrxd.exe,xboxgip,sys
+0,C:\Windows\System32\DRIVERS\wanarp.sys,ccmsetup,-
+0,systemroot\system32\drivers\e1i63x64.sys,Драйвер звука гарнитуры Microsoft Bluetooth,sys
+0,C:\TEMP\eqscript\eqfiles.vbs,intcdaud.sys,sys
+0,E:\Base\CronosPlusUser\ProSrv.exe,\NvTmRep_CrashReport3_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8},-
+1,-,Mediatek PCI LE Extensible Wireless LAN Card Driver,sys
+0,systemroot\system32\driverstore\filerepository\ibtusb.inf_amd64_cef9c75b00b2f9b4\ibtusb.sys ,Zoho Assist-Remote Support,exe
+0,systemroot\system32\drivers\vnaap.sys,bcmfn2,sys
+0,C:\Program Files\CCleaner\CCleanerBugReport.exe --product 90 --send dumps|report --path C:\Program Files\CCleaner\LOG --programpath C:\Program Files\CCleaner --configpath C:\Program Files\CCleaner\Setup --guid 6af5b541-fc36-4929-be3d-ac8f5cbc3a87 --version 6.04.10044 --silent.,NetBT,sys
+0,C:\Windows\System32\drivers\mslldp.sys,Аудио драйвер USB (WDM),sys
+0,C:\Temp\nprintingscript\nprintingcount.ps1,btobto,exe
+0,-,rtkauduservice64.exe,exe
+1,C:\Windows\System32\drivers\aswRvrt.sys,\User_and_FIL_User_Changes_From_SQL,bat
+0,C:\Windows\System32\drivers\aswbidsh.sys,Драйвер адаптера Intel(R) Wireless для Windows 10 64 Bit,sys
+0,C:\Windows\System32\drivers\BthEnum.sys,\AsusSystemAnalysis_754F3273-0563-4F20-B12F,exe
+0,C:\Windows\System32\drivers\xboxgip.sys,aswVmm,sys
+0,-,NativeWifiP,sys
+0,systemroot\system32\drivers\bthhfaud.sys,\ASR-Startup.,exe
+0,systemroot\system32\drivers\intcdaud.sys,\WpsExternal_EBadula_20220823122333,exe
+0,-,Bresler SPAOPCServer,exe
+0,\SystemRoot\System32\drivers\mtkwlex.sys,Aladdin IFD Handler,sys
+1,C:\Program Files (x86)\ZohoMeeting\ZAService.exe run -SessionType ASSIST -productID 1,\rpa.reports_on_individuals.,py
+0,C:\Windows\System32\drivers\bcmfn2.sys,FgstToolDrv,sys
+0,C:\Windows\System32\DRIVERS\netbt.sys,\{6D459504-73F3-4BB1-A2B3,exe
+0,systemroot\system32\drivers\usbaudio.sys,K-11 Autoupdate service,exe
+1,C:\Windows\system32\cmd.exe /Q /c echo tasklist ^> \\127.0.0.1\C$\__output 2^>^&1 > C:\Windows\TEMP\execute.bat & C:\Windows\system32\cmd.exe /Q /c C:\Windows\TEMP\execute.bat & del C:\Windows\TEMP\execute.bat,\Report NewUsers Last24,ps1
+0,systemroot%\system32\driverstore\filerepository\realtekservice.inf_amd64_3a95f53a763a6ba1\rtkauduservice64.exe,Intel(R) PRO/1000 PCI Express Network Connection Driver,sys
+0,C:\Scripts\User_and_FIL_User_Changes_From_SQL\User_and_FIL_User_Changes_From_SQL.bat,\TVT\TVSUUpdateTask_UserLogOn,exe
+0,systemroot\system32\drivers\netwtw10.sys,klpnpflt.KES-21-9,sys
+0,C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_6d80c4e5e6c9db97\ASUSSystemAnalysis\AsusSystemAnalysis.exe -j0,\SputnikUpdateTaskMachineCore,exe
+0,C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_6d80c4e5e6c9db97\ASUSSystemAnalysis\AsusSystemAnalysis.exe -j0,\SputnikUpdateTaskMachineUA,exe
+1,C:\Windows\System32\drivers\aswVmm.sys,MOXA UPort 1110/1130/1150 Windows Driver,vbs
+0,C:\Windows\System32\DRIVERS\nwifi.sys,Intel(R) Serial IO UART Driver v2.,sys
+1,C:\Program Files (x86)\Advanced System Repair Pro 1.9.9.2.0\AdvancedSystemRepairPro.exe /minimize,ComputerZ_x64,sys
+0,C:\Users\EBadula\AppData\Local\Kingsoft\WPS Office\11.2.0.11254\office6\wpscloudsvr.exe /wpscloudlaunch /run_plugin /plugin_name=ktaskschdtool /plugin_entry=ktaskschdtool.dll /task=wpsexternal /launchtask /ver=1.0 /start_from=task_external, Realtek USB FE/GbE NIC Family Windows 10 64-bit Driver,-
+0,WPS Office,HP Support Solutions Framework Service,exe
+0,c:\program files (x86)\релематика\микра\drivers\spaopcserver.exe /w.,Intel® PROSet/Wireless Service,exe
+0,systemroot\system32\drivers\aldnifdh.sys,"	Intel(R) Capability Licensing Service TCP IP Interface",exe
+1,C:\rpa\rpa.reports_on_individuals\venv\Scripts\pythonw.py src\robot.py,PBF Proxy Servic,vbs
+0,system32\drivers\fgsttooldrv.sys,\AnVir Task Manager,exe
+0,system32\drivers\fgsttooldrv.sys,\Anvirlauncher,exe
+1,C:\Users\user\AppData\Local\Microsoft\Teams\Update.exe,\AppId update task for siem.core.25.0.4497.883f41e13cd5897278d12e186c2ebed1,ps1
+0,c:\program files\monitel\ck-11\client\autoupdaterservice.exe,Algorius Net Viewer Service,exe
